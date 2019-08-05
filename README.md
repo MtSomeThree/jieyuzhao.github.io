@@ -1,2 +1,2 @@
 # jieyuzhao.github.io
-website
+https://jyzhao.net
